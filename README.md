@@ -1,6 +1,6 @@
 ansible-nagios
 ==============
-Ansible Playbook for setting up the Nagios monitoring system and clients on CentOS/RHEL.
+Ansible Playbook for setting up the Nagios monitoring system and clients on CentOS/RHEL. Forked from https://github.com/sadsfae/ansible-nagios.
 
 ![Nagios](/image/ansible-nagios.png?raw=true)
 
